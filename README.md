@@ -1,2 +1,3 @@
 # hello-world
-This is my hello world git
+Hi, everyone!
+I am following the official tutorial of github!
